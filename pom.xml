@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+Today, Michael and I had a pretty intense discussion about some recent events and our working relationship. Here are the key points I remember:
 
-    <groupId>org.example</groupId>
-    <artifactId>CompoundInterestCalculator</artifactId>
-    <version>1.0-SNAPSHOT</version>
-  <dependencies>
-    <dependency>
-      <groupId>org.projectlombok</groupId>
-      <artifactId>lombok</artifactId>
-      <version>RELEASE</version>
-      <scope>compile</scope>
-    </dependency>
+We started by addressing the incident during the team call. I felt overshadowed by Michael's comments, which I perceived as negative and humiliating. Michael explained that his intention was to challenge the group constructively, not to single me out. He apologized for any hurt caused, which I appreciated, though it didn't entirely alleviate my frustration. Michael said something like, "I apologize, but I want to challenge the team to think forward."
 
+We then moved on to our communication styles. I expressed that Michael's approach often feels dismissive and confrontational. Michael apologized and clarified that his comments are meant to be constructive. It was good to hear his perspective, but I couldn't help feeling a bit annoyed that this keeps happening. I told Michael, "You need to stop interrupting. Your behavior with interruptions is making me feel very unhappy."
 
-    <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
-    <dependency>
-      <groupId>com.fasterxml.jackson.core</groupId>
-      <artifactId>jackson-databind</artifactId>
-      <version>2.14.0</version>
-    </dependency>
+The conversation touched on the broader team dynamics. I shared my concerns about the team environment feeling toxic at times and how I believe Michael's behavior contributes to this atmosphere. Michael was surprised and emphasized his intention to be supportive. It was a relief to know that he wants to contribute positively to the team, but I still felt a bit skeptical.
 
-  </dependencies>
+We also discussed our focus on functional requirements over strategic thinking. I raised concerns about this, and Michael acknowledged the importance of strategic considerations but stressed the need to prioritize current business requirements. It was a balanced discussion, and I felt heard, though I still worry about our long-term direction.
 
-  <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-    </properties>
+I mentioned that the current work allocation might be hindering productivity. Michael explained the challenges we face and we discussed potential solutions to improve workflow and collaboration. It was a constructive conversation, but I couldn't shake the feeling that we keep running into the same issues.
 
-</project>
+Throughout our discussion, Michael apologized multiple times and even suggested aligning me with another team if the current environment isn't working for me. I appreciated his willingness to find a resolution and his apologies, but I remain concerned about the overall team dynamics and communication.
+
+Overall, it was a productive conversation, and I feel hopeful about improving our working relationship and team dynamics. However, I can't help but feel a bit annoyed that we keep having these conversations without seeing significant changes. I need to reflect on my own communication style and how I can contribute to a more positive team environment.
